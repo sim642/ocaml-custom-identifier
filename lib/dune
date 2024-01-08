@@ -1,0 +1,4 @@
+(library
+ (name custom_identifier)
+ (public_name custom_identifier)
+ (foreign_stubs (language c) (names stubs)))
